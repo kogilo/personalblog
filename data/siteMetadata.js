@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'Next.js Starter Blog',
-  author: 'Abella Othow',
-  headerTitle: 'Abella',
+  author: 'Abella',
+  headerTitle: 'House of Abel',
   description: 'Through this blog, I offer my perspectives on diverse topics and provide updates on the projects I am engaged in.',
   language: 'en-us',
   theme: 'system', // system, dark or light
